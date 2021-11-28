@@ -41,3 +41,7 @@ Follow up:
 func rotate(_ nums: inout [Int], _ k: Int) {
         
 }
+
+
+https://user-images.githubusercontent.com/83632297/143777227-06ffff34-b303-4d2b-bf1f-1cc13a93d8fa.mp4
+
